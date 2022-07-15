@@ -1,5 +1,7 @@
 # Adivinar el Pokemon
 
+Challenge basado en idea de @goncy, usando una API creada por él.
+
 ![01](./assets/screenshot-0.jpg)
 
 Este proyecto tiene 3 milestones o entregas, no es necesario que cumplas todas para dar el proyecto por terminado, ajustalo a tus necesidades y conocimientos. Cada entrega se vuelve un poco más difícil.
@@ -25,6 +27,3 @@ En esta segunda versión debemos cumplir los siguientes puntos:
 
 ## Entrega 3
 Agregar un contador que persista luego de refrescar la página con la cantidad de aciertos y errores del usuario.
-
----
-Si te gusta mi contenido, seguime en [Twitter](https://twitter.gonzalopozzo.com), en [Twitch](https://twitch.gonzalopozzo.com), doname un [Cafecito](https://cafecito.gonzalopozzo.com) o volvete [sponsor en github](https://github.com/sponsors/goncy) ✨
